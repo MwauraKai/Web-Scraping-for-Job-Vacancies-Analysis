@@ -4,9 +4,12 @@ This project aims to enhance the efficiency of sourcing job vacancies for a recr
 
 ##Project Scope
 *Objectives:*
-Increase efficiency in job vacancy sourcing
-Improve the quality of job vacancy sourcing
-Gain a competitive advantage for clients
+1.Increase efficiency in job vacancy sourcing
+
+2.Improve the quality of job vacancy sourcing
+
+3.Gain a competitive advantage for clients
+
 *Findings and Recommendations*
 
 1.Distribution of Salaries:
