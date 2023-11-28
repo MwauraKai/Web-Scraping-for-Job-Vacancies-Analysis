@@ -1,5 +1,7 @@
 # Web-Scraping-for-Job-Vacancies-Analysis
 This project aims to enhance the efficiency of sourcing job vacancies for a recruitment agency by employing web scraping tools to automatically extract data from a major job posting website. The analysis covers a synthetic dataset, created for learning purposes, to draw insights into salary distribution, company ratings, and job locations.
+
+
 ##Project Scope
 *Objectives:*
 Increase efficiency in job vacancy sourcing
