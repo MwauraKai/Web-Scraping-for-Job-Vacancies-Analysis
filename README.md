@@ -3,7 +3,9 @@ This project aims to enhance the efficiency of sourcing job vacancies for a recr
 
 
 ##Project Scope
+
 *Objectives:*
+
 1.Increase efficiency in job vacancy sourcing
 
 2.Improve the quality of job vacancy sourcing
@@ -27,6 +29,7 @@ The majority of ratings fall between 3.5 and 5, suggesting a positive employer s
 Job postings are spread across different locations, including New York, San Francisco, London, Berlin, and Singapore.
 
 *Recommendations and Next Steps:*
+
 1.Target High-Rated Companies:
 
 Encourage clients to prioritize job opportunities from companies with higher ratings, indicating positive work environments.
@@ -40,6 +43,7 @@ Consider exploring opportunities with varying salary ranges to cater to a broade
 Understand client preferences for job locations and tailor recommendations accordingly.
 
 *Limitations and Areas for Further Research:*
+
 1.Data Size:
 
 The dataset is synthetic; real-world data would provide more accurate insights.
